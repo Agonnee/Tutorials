@@ -6,7 +6,7 @@ These projects are either taking what I learned from tutorials and making it my 
 
 ## For Code Along projects
 
-No changes other than comments made to the code in these, I merely coded along with the explaination. 
+No changes other than comments made to the code in these, I coded along with the course or tutorial
 
 ## This is a test
 
